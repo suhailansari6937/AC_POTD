@@ -1,3 +1,5 @@
+// Pascal triangle
+
 import java.util.*;
 public class task01 {
     static List<List<Integer>> pascalTriangle(int n ){
