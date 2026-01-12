@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AC_POTD.iml" filepath="$PROJECT_DIR$/.idea/AC_POTD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPC_25DEC/OPC_25DEC.iml" filepath="$PROJECT_DIR$/OPC_25DEC/OPC_25DEC.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/day_02/day_02.iml" filepath="$PROJECT_DIR$/day_02/day_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_03/day_03.iml" filepath="$PROJECT_DIR$/day_03/day_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_04/day_04.iml" filepath="$PROJECT_DIR$/day_04/day_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_40/day_40.iml" filepath="$PROJECT_DIR$/day_40/day_40.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_5/day_5.iml" filepath="$PROJECT_DIR$/day_5/day_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_6/day_6.iml" filepath="$PROJECT_DIR$/day_6/day_6.iml" />
     </modules>
